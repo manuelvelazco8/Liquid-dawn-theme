@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-404"
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
+{
+    "sections": {
+      "main": {
+        "type": "main-404"
+      }
+    },
+    "order": [
+      "main"
+    ]
+  }
+   
